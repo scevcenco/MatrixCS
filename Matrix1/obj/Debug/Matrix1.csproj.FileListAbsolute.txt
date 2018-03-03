@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Настя\C#_Git\Matrix1\Matrix1\bin\Debug\Matrix1.exe.config
+C:\Users\user\Desktop\Настя\C#_Git\Matrix1\Matrix1\obj\Debug\Matrix1.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Настя\C#_Git\Matrix1\Matrix1\bin\Debug\Matrix1.exe
+C:\Users\user\Desktop\Настя\C#_Git\Matrix1\Matrix1\bin\Debug\Matrix1.pdb
+C:\Users\user\Desktop\Настя\C#_Git\Matrix1\Matrix1\obj\Debug\Matrix1.exe
+C:\Users\user\Desktop\Настя\C#_Git\Matrix1\Matrix1\obj\Debug\Matrix1.pdb
